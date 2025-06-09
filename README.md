@@ -13,17 +13,8 @@ A domain-specific chatbot fine-tuned on the **Harry Potter book series**, powere
 
 ---
 
-## 🗂️ Directory Structure
-harry_potter_chatbot/
-├── data/ # Raw + tokenized dataset
-├── preprocessing/ # Dataset preparation
-├── model/ # Config + training scripts
-├── chatbot/ # CLI chatbot
-├── app/ # Optional web app
-├── utils/ # Helpers
-├── README.md
-└── requirements.txt
+
 ## 🧹 Requirements
 
 ```bash
-pip install torch transformers flask faiss-cpu
+pip install torch transformers  faiss-cpu
