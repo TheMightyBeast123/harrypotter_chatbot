@@ -1,0 +1,6 @@
+transformers==4.39.3
+datasets
+torch
+tqdm
+flask
+faiss-cpu
